@@ -7,6 +7,11 @@
 
 ### 下面介绍控件的属性及使用方式
 
+###### gradle引入方法：
+~~~
+compile "com.github.xiaoliang0227:DynamicDialog:1.0.1"
+~~~
+
 ###### DynamicDialogType 分为五种类型
 - **LOADING** 加载中窗体
 - **ERROR** 错误提示窗体
