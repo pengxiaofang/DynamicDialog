@@ -30,13 +30,13 @@ public class DynamicDialog extends Dialog {
     private String message;
 
     // 窗体成功提示图片资源
-    private int successIcon = R.mipmap.success;
+    private int successIcon = R.mipmap.dynamic_dialog_success;
 
     // 窗体错误提示图片资源
-    private int errorIcon = R.mipmap.error;
+    private int errorIcon = R.mipmap.dymamic_dialog_error;
 
     // 窗体警告提示图片资源
-    private int warningIcon = R.mipmap.warning;
+    private int warningIcon = R.mipmap.dynamic_dialog_warning;
 
     // 长度按照屏幕宽度的缩放
     private float scale = 0.9f;

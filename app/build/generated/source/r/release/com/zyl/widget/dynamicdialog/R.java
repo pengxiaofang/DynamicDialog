@@ -804,11 +804,11 @@ public final class R {
         public static int tooltip = 0x7f0f0031;
     }
     public static final class mipmap {
-        public static int error = 0x7f110001;
-        public static int ic_launcher = 0x7f110002;
-        public static int ic_launcher_round = 0x7f110003;
-        public static int success = 0x7f110004;
-        public static int warning = 0x7f110005;
+        public static int dymamic_dialog_error = 0x7f110001;
+        public static int dynamic_dialog_success = 0x7f110002;
+        public static int dynamic_dialog_warning = 0x7f110003;
+        public static int ic_launcher = 0x7f110004;
+        public static int ic_launcher_round = 0x7f110005;
     }
     public static final class string {
         public static int abc_action_bar_home_description = 0x7f150001;

@@ -16,7 +16,7 @@
             android:id="@+id/alert_icon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@mipmap/success"
+            android:src="@mipmap/dynamic_dialog_success"
             android:visibility="gone" />
 
         <android.support.v4.widget.ContentLoadingProgressBar

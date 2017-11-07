@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.xiaoliang0227</groupId>
   <artifactId>DynamicDialog</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <packaging>aar</packaging>
   <name>app</name>
   <description>多态窗体控件</description>
