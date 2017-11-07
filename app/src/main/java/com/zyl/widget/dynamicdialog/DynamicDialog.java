@@ -26,7 +26,7 @@ public class DynamicDialog extends Dialog {
     // 窗体类型：NORMAL（常规）、LOADING（加载中）、ERROR（错误）、SUCCESS（成功）、WARNING（警告）
     private DynamicDialogType type = DynamicDialogType.NORMAL;
 
-    // 窗体 消息美容
+    // 窗体 消息内容
     private String message;
 
     // 窗体成功提示图片资源
