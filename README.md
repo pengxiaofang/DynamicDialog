@@ -9,7 +9,7 @@
 
 ###### gradle引入方法：
 ~~~
-compile "com.github.xiaoliang0227:DynamicDialog:1.0.2"
+compile "com.github.xiaoliang0227:DynamicDialog:1.0.3"
 ~~~
 
 ###### DynamicDialogType 分为五种类型
